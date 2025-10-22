@@ -1,0 +1,9 @@
+alias activate="source .venv/bin/activate"
+alias t="touch"
+alias h="cd $HOME"
+alias r="cd $HOME/repositorio"
+alias e="eza -l -g -h --icons"
+alias ea="eza -l -a -g -h --icons"
+alias ff='fzf --preview="bat --color=always {}" --bind="enter:execute(nano {+})"'
+alias cd="z"
+alias rm='rm -i'
