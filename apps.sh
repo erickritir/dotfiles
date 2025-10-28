@@ -74,3 +74,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 # ruff
 echo "installing ruff"
 uv tool install ruff@latest
+
+#ulauncher
+echo "installing ulauncher"
+dnf -y install ulauncher
