@@ -38,8 +38,8 @@ keybind = ctrl+e=close_window
 # keybind = cmd+s>8=goto_tab:8
 # keybind = cmd+s>9=goto_tab:9
 # split
-keybind = ctrl+right=new_split:right
-keybind = ctrl+down=new_split:down
+keybind = ctrl+shift+right=new_split:right
+keybind = ctrl+shift+down=new_split:down
 keybind = alt+down=goto_split:bottom
 keybind = alt+up=goto_split:top
 keybind = alt+left=goto_split:left
