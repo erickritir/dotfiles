@@ -1,15 +1,15 @@
 {
     "window.titleBarStyle": "custom",
     "workbench.iconTheme": "ayu",
-    "editor.fontFamily": "Source Code Pro",
-    "editor.fontSize": 14.5,
-    "debug.console.fontSize": 14.5,
-    "terminal.integrated.fontSize": 14.5,
-    "chat.editor.fontSize": 14.5,
+    "editor.fontFamily": "FiraCode Nerd Font",
+    "editor.fontSize": 13.5,
+    "debug.console.fontSize": 13.5,
+    "terminal.integrated.fontSize": 13.5,
+    "chat.editor.fontSize": 13.5,
     "workbench.tree.indent": 16,
     "editor.fontWeight": "500",
     "terminal.integrated.fontWeight": "600",
-    "window.zoomLevel": 0.4,
+    "window.zoomLevel": 0.8,
     "workbench.colorTheme": "Predawn",
     "explorer.confirmDelete": false,
     "window.menuBarVisibility": "toggle",
@@ -26,6 +26,9 @@
     "workbench.settings.useSplitJSON": false,
     "workbench.settings.editor": "json",
     "editor.quickSuggestionsDelay": 100,
+
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
 
     // zen mode
     "zenMode.centerLayout": false,
@@ -58,4 +61,5 @@
     },
     "code-runner.enableAppInsights": false,
     "update.showReleaseNotes": false
+
 }
